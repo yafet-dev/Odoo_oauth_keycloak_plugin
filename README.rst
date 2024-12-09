@@ -28,6 +28,9 @@ Authentication OpenID Connect
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
+
+**Warning:** I am not the owner of this project. Full credit goes to the original repository: [OCA/server-auth (auth_oidc)](https://github.com/OCA/server-auth/tree/15.0/auth_oidc). The following documentation includes my own additional configuration details.
+
 This module allows users to login through an OpenID Connect provider using the
 authorization code flow or implicit flow.
 
